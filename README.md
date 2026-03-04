@@ -182,7 +182,7 @@ footer {
 <section id="about">
     <h2 class="section-title">About Me</h2>
     <p style="text-align:center; max-width:700px; margin:auto; opacity:0.85;">
-        Passionate editor who crates crappy edits than only i enjoy
+        Passionate editor who crates crappy edits that only i enjoy
     </p>
 </section>
 
