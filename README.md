@@ -165,7 +165,7 @@ footer {
 <body>
 
 <header>
-    <h1>Nypho</h1>
+    <h1>Welcome</h1>
     <nav>
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
@@ -175,14 +175,13 @@ footer {
 
 <div class="hero">
     <h2>Hi, I'm <span>Tashrib Nur</span></h2>
-    <p>I create normal Edits based on my mood</p>
+    <p>I'm a Student based in Banglades, currently studying in Inter 1st year</p>
     <a href="#projects" class="btn">Explore My Work</a>
 </div>
 
 <section id="about">
     <h2 class="section-title">About Me</h2>
-    <p style="text-align:center; max-width:700px; margin:auto; opacity:0.85;">
-        Passionate editor who crates crappy edits that only i enjoy
+    <p style="text-align:center; max-width:700px; margin:auto; opacity:0.85;"> 
     </p>
 </section>
 
@@ -191,15 +190,15 @@ footer {
     <div class="projects">
         <div class="card">
             <h3>Project One</h3>
-            <p>Idk vro check ny Instagram</p>
+            <p>N/A</p>
         </div>
         <div class="card">
             <h3>Project Two</h3>
-            <p>Check Instagram >:3 </p>
+            <p>N/A </p>
         </div>
         <div class="card">
             <h3>Project Three</h3>
-            <p>You should definitely checkout my Instagram </p>
+            <p>N/A</p>
         </div>
     </div>
 </section>
@@ -207,13 +206,13 @@ footer {
 <section id="contact">
     <h2 class="section-title">Contact</h2>
     <p style="text-align:center;">
-        Email: femboytwinkieballss@email.com <br><br>
-        Instagram: @imsooinlovewithroza
+        Email: tashribnur4@gmail.com <br><br>
+        Instagram: @N/A
     </p>
 </section>
 
 <footer></footer>
-    © Sybau nga shush
+    © TIM
 </footer>
 
 </body>
